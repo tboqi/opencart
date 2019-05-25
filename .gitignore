@@ -1,7 +1,7 @@
 # Config and Htaccess Files
-/upload/.htaccess
-/upload/config.php
-/upload/admin/config.php
+#/upload/.htaccess
+#/upload/config.php
+#/upload/admin/config.php
 
 # Image File
 !/upload/image/no_image.jpg
@@ -19,8 +19,8 @@
 !/upload/system/storage/modification/index.html
 
 # Templates Files
-/upload/image/templates/*
-/upload/image/templates/default.jpg
+#/upload/image/templates/*
+#/upload/image/templates/default.jpg
 
 # Download Files
 /upload/system/storage/download/*
@@ -34,7 +34,7 @@
 /upload/system/storage/upload/*
 !/upload/system/storage/upload/index.html
 
-# Flags 
+# Flags
 # remove sharp char if you want to add flags to gitignore
 # /upload/flags/*
 
@@ -52,7 +52,7 @@
 /vendor/*
 
 # Test Config File
-/tests/phpunit/bootstrap.php
+#/tests/phpunit/bootstrap.php
 
 # IDE Project files
 /.idea
