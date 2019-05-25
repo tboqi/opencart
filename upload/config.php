@@ -1,9 +1,9 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'http://opencart.local:10080/');
+define('HTTP_SERVER', 'http://opencart.local/');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://opencart.local:10080/');
+define('HTTPS_SERVER', 'http://opencart.local/');
 
 // DIR
 define('DIR_APPLICATION', '/work/d/code/opencart/upload/catalog/');
