@@ -1,11 +1,11 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'http://opencart.local:10080/admin/');
-define('HTTP_CATALOG', 'http://opencart.local:10080/');
+define('HTTP_SERVER', 'http://opencart.local/admin/');
+define('HTTP_CATALOG', 'http://opencart.local/');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://opencart.local:10080/admin/');
-define('HTTPS_CATALOG', 'http://opencart.local:10080/');
+define('HTTPS_SERVER', 'http://opencart.local/admin/');
+define('HTTPS_CATALOG', 'http://opencart.local/');
 
 // DIR
 define('DIR_APPLICATION', '/work/d/code/opencart/upload/admin/');
